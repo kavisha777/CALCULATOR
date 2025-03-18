@@ -15,7 +15,7 @@ function calculate(operation) {
         result = num1 + num2;
     } else if (operation === "subtract") {
         result = num1 - num2;
-    } else if (operation === "multiply") { // Corrected spelling
+    } else if (operation === "multiply") { 
         result = num1 * num2;
     } else if (operation === "divide") {
         if (num2 === 0) {
